@@ -22,6 +22,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 * Mark Anthony Da Silva Junior - 321220148
 * Gabriel Henrique Abreu Nascimento - 119125555
 * Frederico Leonardo da Silva Luz - 119128620
+* José Eduardo Araujo de Assis Junior- 119127841
 * Fillipe Almeida Dutra - 1221137183
 * Gabryel Junio Costa Teixeira - 321221301
 * Daniel Augusto Eller - 322125999
